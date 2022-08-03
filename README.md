@@ -1,6 +1,6 @@
 # mo-salamey-password-generator
 
-In this assignment I created a website hat an employee can use to generate a random password based on criteria they've selected using JavaScript. 
+In this assignment I created a website that an employee can use to generate a random password based on criteria they've selected using JavaScript. 
 
 Actions taken:
 Utilized JavaScript to create variables and arrays for those variables. The data contained in the variables were alpha, numeric and special characters. 
