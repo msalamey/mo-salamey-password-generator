@@ -67,6 +67,7 @@ for(var i = 0; i < passwordLength; i++) {
   console.log(characterList); 
 }
 
+// Returns the commands to generate a password. 
 var password = passwordBlank.join("");
 console.log("Your password is: " + password); 
 return password; 
