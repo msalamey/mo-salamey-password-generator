@@ -2,12 +2,12 @@
 
 In this assignment I created a website that an employee can use to generate a random password based on criteria they've selected using JavaScript. 
 
-Actions taken:
-Utilized JavaScript to create variables and arrays for those variables. The data contained in the variables were alpha, numeric and special characters. 
-The function was provided to write the password. 
-Utilized "if/else" in order to capture the selected criteria when generating a password. 
-Utilized the "for" loop in order and random math function in order ot create a password with the selected critera.
-Utilized the "return" to get the actual password to generate on the webstie. 
+## Actions taken:
+* Utilized JavaScript to create variables and arrays for those variables. The data contained in the variables were alpha, numeric and special characters. 
+* The function was provided to write the password. 
+* Utilized "if/else" in order to capture the selected criteria when generating a password. 
+* Utilized the "for" loop in order and random math function in order ot create a password with the selected critera.
+* Utilized the "return" to get the actual password to generate on the webstie. 
 
 Screen Shot:
  
