@@ -54,16 +54,17 @@ function generatePassword() {
   }
   // If any of the 4 criteria is selected to generate a password. 
   else if(includeLowerCase || includeUpperCase || includeNumbers || includeSpecialCharacters) {
-  enter = includeLowerCase.concat(includeLowerCase, includeNumbers, includeSpecialCharacters); 
-  console.log(enter)}; 
+  var characterList = []; 
+  characterList = characterList.concat(includeLowerCase, includeUpperCase, includeNumbers, includeSpecialCharacters); 
+  console.log(characterList)}; 
 
 var passwordBlank = [];
 
 // Iteration for random selection. 
 for(var i = 0; i < passwordLength; i++) {
-  var enteredcriteria = enter[math.floor(math.random() * enter.length)];
-  passwordBlank.push(enteredcriteria); 
-  console.log(enteredcriteria); 
+  var enteredcriteria = Math.random() * (passwordLength - 0) + 0;
+  passwordBlank.push(characterList[enteredcriteria]); 
+  console.log(characterList); 
 }
 
 var password = passwordBlank.join("");
