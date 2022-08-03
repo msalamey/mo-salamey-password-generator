@@ -13,4 +13,4 @@ Screen Shot:
  
 ![image](https://user-images.githubusercontent.com/107436206/182686224-c792dd9c-ba8d-458e-a1c1-b17b0287f9d4.png)
 
-Website URL: 
+Website URL: https://msalamey.github.io/mo-salamey-password-generator/
