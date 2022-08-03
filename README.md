@@ -9,7 +9,8 @@ Utilized "if/else" in order to capture the selected criteria when generating a p
 Utilized the "for" loop in order and random math function in order ot create a password with the selected critera.
 Utilized the "return" to get the actual password to generate on the webstie. 
 
-Screen Shot: 
+Screen Shot:
+ 
 ![image](https://user-images.githubusercontent.com/107436206/182686224-c792dd9c-ba8d-458e-a1c1-b17b0287f9d4.png)
 
 Website URL: 
